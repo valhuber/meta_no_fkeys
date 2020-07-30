@@ -1,6 +1,6 @@
 # meta_no_fkeys
 
-This is to explore why the following code results in `meta` with no `foreign_keys`
+This is to explore why the following code (in `helloNW.py`) results in `meta` with no `foreign_keys`:
 
 ```
 log = logging.getLogger(__name__)
